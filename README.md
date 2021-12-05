@@ -37,11 +37,7 @@ The ROI image is converted to grayscale and then resized to 100x100. This is the
 ![image](https://user-images.githubusercontent.com/62449953/144737130-7eda9fd7-ec17-4e8f-a85c-3bb2511cab49.png)
 
    
-## Project Demo Video Link
-![image](https://user-images.githubusercontent.com/62449953/144737162-0ccca945-b26b-4936-ad0b-04d90379cb93.png)
-
-
-**## Application**
+## Application
 
 Airports
 The Face Mask Detection System can be used at airports to detect travelers without masks. If a traveler is found to be without a face mask, their picture is sent to the airport authorities so that they could take quick action. 
