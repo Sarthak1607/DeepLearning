@@ -39,11 +39,11 @@ The ROI image is converted to grayscale and then resized to 100x100. This is the
    
 ## Application
 
-Airports
+* Airports-
 The Face Mask Detection System can be used at airports to detect travelers without masks. If a traveler is found to be without a face mask, their picture is sent to the airport authorities so that they could take quick action. 
-Hospitals
+* Hospitals-
 Using Face Mask Detection System, Hospitals can monitor if their staff is wearing masks during their shift or not. Can be used to monitor quarantine people as well
-Offices
+* Offices-
 The Face Mask Detection System can be used at office premises to detect if employees are maintaining safety standards at work. 
 It monitors employees without masks and sends them a reminder to wear a mask. The reports can be downloaded or sent an email at the end of the day to capture people who are not complying with the regulations or the requirements. 
 
