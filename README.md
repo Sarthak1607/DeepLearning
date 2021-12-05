@@ -4,11 +4,11 @@
 ## FACE MASK DETECTION
 ## Content
   * [Abstract](#Abstract)
-  * [Project_Overview](#Project_Overview)
+  * [Project Overview](#Project_Overview)
   * [Dataset](#Dataset)
-  * [Data_Pre-processing](#Data_Pre-processing)
+  * [Data Pre-processing](#Data_Pre-processing)
   * [CNN Architecture](#CNN_Architecture)
-  * [Loss_and_Accuracy_Plot](#Loss_and_Accuracy_Plot)
+  * [Loss and Accuracy_Plot](#Loss_and_Accuracy_Plot)
   * [Applications](#Applications)
 ## Abstract
 
