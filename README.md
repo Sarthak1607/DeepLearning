@@ -8,7 +8,7 @@
   * [Dataset](#Dataset)
   * [Data Pre-processing](#Data_Pre-processing)
   * [CNN Architecture](#CNN_Architecture)
-  * [Loss and Accuracy_Plot](#Loss_and_Accuracy_Plot)
+  * [Loss and Accuracy Plots](#Loss_and_Accuracy_Plot)
   * [Applications](#Applications)
 ## Abstract
 
